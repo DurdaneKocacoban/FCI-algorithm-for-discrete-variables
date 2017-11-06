@@ -1,19 +1,33 @@
 # FCI-algorithm-for-discrete-variables
 # Packages
 Pkg.add("BayesNets");
+
 Pkg.add("LightGraphs");
+
 Pkg.add("TikzGraphs");
+
 Pkg.add("TikzPictures");
+
 Pkg.add("HypothesisTests");
+
 Pkg.add("GSL");
+
 Pkg.add("RobustShortestPath");
+
 Pkg.add("Combinatorics");
+
 Pkg.add("FastCombinations");
+
 Pkg.add("Iterators");
+
 Pkg.add("Graphs");
+
 Pkg.add("CPUTime");
+
 Pkg.add("Rmath");
+
 Pkg.add("InformationMeasures");
+
 Pkg.add("CodeTools");
 
 using BayesNets
