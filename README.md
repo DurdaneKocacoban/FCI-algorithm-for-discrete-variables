@@ -47,6 +47,7 @@ using InformationMeasures
 using CodeTools
 
 cd("/Users/ ... /FCI-algorithm-for-discrete-variables");
+
 dataset=readtable("alarmnetworkdata.csv");
 datadomain=readtable("alarmnetworkdatadomain.csv");
 datadomain=convert(Array,datadomain);
