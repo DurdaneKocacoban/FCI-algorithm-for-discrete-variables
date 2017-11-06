@@ -1,8 +1,8 @@
 # FCI-algorithm-for-discrete-variables
 # Packages
-###Pkg.add("BayesNets");
-###Pkg.add("LightGraphs");
-###Pkg.add("TikzGraphs");
+### Pkg.add("BayesNets");
+### Pkg.add("LightGraphs");
+### Pkg.add("TikzGraphs");
 
 Pkg.add("TikzPictures");
 
